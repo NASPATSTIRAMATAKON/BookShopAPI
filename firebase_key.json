@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lonicbookshopapi",
+  "private_key_id": "e4b3dab7a862c1db5a3ab086a8c1a981f5235164",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCsb9YB0tvnbB8b\nHCFzxmSt6e3xULeGIqjz+VWXRKTM+5QJROLWACIvenYh4b9bSjomJujhesNlj/Hh\nLiNAaDqgh2qtiHCbhNjvdblMktqc9wc0E4OLOlSBOY+KrdxEeAXUDV7wGaieeAeJ\nHHrjAeDvs8j6TlikIEMhBRAmBW1eq5RScjc6qc1Qx5wwLRbHw4aYFkK40Lgf93Yj\nr3icZoH6uhbEi086h4J0sSvc4Qvo3zDNiVwCeTxJBMq8HsZ5aNUnxhACYc7B1GCb\nhNiU3R1+Nx8FE93cDSB1RzHdaMZpRwwcfLP5bN6WYmyCA3IXMiswed2Ip+ui1ngx\nhEj0dGrTAgMBAAECggEARCuOangm8a2f+oK7gt667LpflBg6BbBsJM+8k6nSkSsg\nUi3Gk53H5gc+7pQlp3yH0o9tX769wsgOctxfmVXbX51JgkM/aWwyqzBaSjiAbq+G\nTIMubPtpbxEHe2bSfssIWtXSY49xRvzi1cTJnDcg6wKjgLk6d+A9Sa+Lu8xHebYp\n6NW2Y11FrBxidM46oX5iElBr/t3TOAwYGYfCz4PQV55OtmkZihif9NS0k3Eg5g/g\nMQZp3zB6tRPed+k5AGf0QVnGa787BN5oOnm3tnwDaAsbYNy8eh6aucieQpeURVpZ\nXcKQtQ0S+whKyjuw37ahGt3pw3EnFros9CKEwxR0MQKBgQDuAurkVqgA1Xeqrir0\ncxA3zCcnITa94GyhtVqc3s0jkhmGWgWUXteCaYhH9hpJXXVRT6qGGUTiCAPG2ClR\nbcutcEpdAR+fLbV0iUSDsljbqLBHoTr9w0zILtVipNtl6wjEvcxZWZOFr0oGT1Wz\nC/xDhlviD2VwdVLoHIAHnlAaCwKBgQC5eCv7625J9BBvLdZjRRGnQwgSxpYN1UWa\nmk1Ye3D/XJN/nyOf5EWxW9lixMebN6WcBGF9VYYHGh4ZQ8FvnVhmAHtV/gz9gw1z\nuZ8iqLePHFtNfCIE5Ntew1LkZzNnf87lYaxtPlaTToOoBzLeTW0hUtckHphKRPLL\nHc5Jo+k3WQKBgQCNDU+VSMHB1MBZd2RfgD1RQ/zEFMvzVSgr4WU06FlcRj44P+tk\nlZxUXiR0uSW06t0W9gaR+DG5XpSWaA58gnwdahm36m2KETWjPaJMBgrhCqSFnshu\nESrUy+SL1DVtvg9xQSX0ocBqjoppGOUp+eVjQyH647LzJaSfiBxb53eDJwKBgB9l\nXly4z+So8hc/9Si8ym48BKPZBhG1ZqDzOeCelNRFgZp6//bTF5EccUIs+XUnCFvO\nygoDbjrJiwrP03Dne81Yi4hVBzHq+135sByX3urU7AfD2aZmb1QtUFzls2fz1Lwz\nupKLmPA6vEK3ZT8IcE7RzSWKIFGCNm93zjHdE1+RAoGAeISLF1pnDxDTobGnMf55\nw6bN//drKPa+AWT7EQI91680IVZZo4hD528C3X17QKDCFxAJ8Sp4E1oIKwKOq33S\nex/9u9S0osPtUq9nQxTaZ1Kfu84hUx5A80gsYfOZZUmwAZFww+3lpG4WBnmlnOSo\nG47PIQty2xh4APoVMDKXORs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-cj549@lonicbookshopapi.iam.gserviceaccount.com",
+  "client_id": "109311935992186577255",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-cj549%40lonicbookshopapi.iam.gserviceaccount.com"
+}
